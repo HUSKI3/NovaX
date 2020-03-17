@@ -1,11 +1,3 @@
-# [WIP] NovoX
-_______________________________________
+# [WIP] NovaX
 
-Things available:
-* Boot system
-* A basic Kernel
-
-Things to come:
-* Desktop
-* Multitasking
-* Other os stuff
+NovaX is a virtual Graphics Card to suit your needs.
